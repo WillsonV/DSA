@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Willson2" 
 permalink: /LinkedList.md/
 
