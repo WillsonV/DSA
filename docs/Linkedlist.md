@@ -13,7 +13,7 @@ Linked list is linear DS that stores elemenst in a non- contiugious  mannner.
  ####  Problems with arrays
  
  1. 1)How to impliment robin round scheduling using array DS??
-         >In RR scheduling every process is given a quantam of time ,if  a process still have it's execution time left then it's moved to the end of queue ,if process is completed it;s execution them it' s removed from queue.
+ > In RR scheduling every process is given a quantam of time ,if  a process still have it's execution time left then it's moved to the end of queue ,if process is completed it;s execution them it' s removed from queue.
          
  2.         
  
