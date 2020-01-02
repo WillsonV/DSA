@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Willson2" 
-permalink: /LinkedList.html/
+permalink: /LinkedList.md/
 
 ---
 
