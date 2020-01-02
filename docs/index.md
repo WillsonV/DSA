@@ -9,4 +9,4 @@ Linked list is linear DS that stores elemenst in a non- contiugious  mannner.
  
  [LinkedList](Linkedlist.md)
  
- [arrrays](Array.md)
+ [arrrays](Array.md)    [JavaFileDownload](JavaFiles.md)
