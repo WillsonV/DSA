@@ -20,9 +20,9 @@ Linked list is linear DS that stores elemenst in a non- contiugious  mannner.
 
 
 
+## L7
 
-
-# Detect loop in a linked list
+### Detect loop in a linked list
 
 What is Loop in LL: when next pointer of a the node in linked list points to the already existing node of the linked list.
 
