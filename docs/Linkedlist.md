@@ -29,5 +29,7 @@ What is Loop in LL: when next pointer of a the node in linked list points to the
 ## Approach to detect loop in linked list:
 
 1. Naive approach (Hashing technique)
-   > Traverse the linked list and while for every node keep checking if next of that node contains the address of some previous node of linked list.
+   - Traverse the linked list .
+   - while traversing ,for every node keep checking if next of that node contains the address of some already existing node of linked          list.
+  >> T.C=O(n^2)
 
