@@ -32,15 +32,12 @@ What is Loop in LL: The next of last node instead of being null points to some e
 1. #### Naive approach (H̶a̶s̶h̶i̶n̶g̶ ̶t̶e̶c̶h̶n̶i̶q̶u̶e̶) O(n^2)
    - Traverse the linked list .
    - while traversing ,for every node keep checking if next of that node contains the address of some already existing node of linked          list.
-  > T.C=O(n^2)
-     Implimentaion: - Traverse LL. 
-                     - store next of current node in temp var
-                    - Again Traverse LL till current node.
-                     * ``` - if(temp==any of previous node till curr)
-                              loop exists.
-                       else
-                        No loop
-                        ```
+
+     Implimentaion:
+     - Traverse LL. 
+     - store next of current node in temp var
+     - Again Traverse LL till current node.
+     - ``` if(temp==any of previous node till curr)    loop exists. else No loop```
                     
      
      
