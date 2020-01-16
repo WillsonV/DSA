@@ -24,7 +24,8 @@ Linked list is linear DS that stores elemenst in a non- contiugious  mannner.
 
 ### Detect loop in a linked list
 
-What is Loop in LL: when next pointer of a the node in linked list points to the already existing node of the linked list.
+What is Loop in LL: The next of last node instead of being null points to some earlier node of linked list.  In general -> when next pointer of a the node in linked list points to the already existing node of the linked list.
+
 
 ### Approach to detect loop in linked list:
 
