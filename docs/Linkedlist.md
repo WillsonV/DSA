@@ -29,7 +29,7 @@ What is Loop in LL: The next of last node instead of being null points to some e
 
 ### Approach to detect loop in linked list:
 
-1. Naive approach (H̶a̶s̶h̶i̶n̶g̶ ̶t̶e̶c̶h̶n̶i̶q̶u̶e̶) O(n^2)
+1. #### Naive approach (H̶a̶s̶h̶i̶n̶g̶ ̶t̶e̶c̶h̶n̶i̶q̶u̶e̶) O(n^2)
    - Traverse the linked list .
    - while traversing ,for every node keep checking if next of that node contains the address of some already existing node of linked          list.
   > T.C=O(n^2)
