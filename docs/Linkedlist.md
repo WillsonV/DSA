@@ -36,5 +36,8 @@ What is Loop in LL: The next of last node instead of being null points to some e
      Implimentaion: Use HashSet for storing address of nodes.
      
      
-2.  #### By modidfying  Node Structure  O(N)
+2.  #### By modidfying  Node Structure[Use visited Flag ]  O(N)
+       
 
+
+3. ####  By Mdoifying Linked List [Dummy node Approach]  O(N)
