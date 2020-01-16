@@ -40,4 +40,4 @@ What is Loop in LL: The next of last node instead of being null points to some e
        
 
 
-3. ####  By Mdoifying Linked List [Dummy node Approach]  O(N)
+3. ####  By Mdoifying Linked List pointers [Dummy node Approach]  O(N)
