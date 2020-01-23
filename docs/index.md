@@ -12,3 +12,5 @@ Linked list is linear DS that stores elemenst in a non- contiugious  mannner.
  [arrrays](Array.md)    [JavaFileDownload](JavaFiles.md)
 
 [Jeykyll Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[GitHub Markup ]https://guides.github.com/features/mastering-markdown/
